@@ -21,26 +21,34 @@
 }
 #selfportait {
 	position: absolute;
-	top: 211px;
+	top: 212px;
 	float: none;
 	background-color: #FFFFFF;
-	left: 443px;
+	left: 318px;
 	width: 185px;
 	height: 226px;
 }
 #aboutme {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 400px;
-	height: 300px;
-	left: 653px;
-	top: 211px;
+	width: 509px;
+	height: 256px;
+	left: 529px;
+	top: 212px;
 }
 #interests {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 400px;
+	width: 250px;
 	height: 300px;
-	top: 558px;
-	left: 425px;
+	top: 490px;
+	left: 340px;
+}
+#trivia {
+	background-color: #FFFFFF;
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	top: 490px;
+	left: 680px;
 }
