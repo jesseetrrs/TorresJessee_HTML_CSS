@@ -11,10 +11,36 @@
 	background-color: #600050;
 }
 #sidebar {
-	height: 1024px;
-	width: 400px;
+	height: 838px;
+	width: 250px;
 	background-color: #FFFFFF;
 	position: absolute;
 	left: 11px;
 	top: 200px;
+	float: none;
+}
+#selfportait {
+	position: absolute;
+	top: 211px;
+	float: none;
+	background-color: #FFFFFF;
+	left: 443px;
+	width: 185px;
+	height: 226px;
+}
+#aboutme {
+	background-color: #FFFFFF;
+	position: absolute;
+	width: 400px;
+	height: 300px;
+	left: 653px;
+	top: 211px;
+}
+#interests {
+	background-color: #FFFFFF;
+	position: absolute;
+	width: 400px;
+	height: 300px;
+	top: 558px;
+	left: 425px;
 }
