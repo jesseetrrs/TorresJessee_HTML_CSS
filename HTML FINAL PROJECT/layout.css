@@ -1,19 +1,20 @@
 #container {
 	width: 1280px;
 	height: 01024px;
-	background-color: #7E066A;
+	background-color: #e1dfd9;
 }
 #header {
 	top: 0px;
 	position: absolute;
 	width: 1280px;
 	height: 150px;
-	background-color: #640153;
+	background-color: #7BCEF2;
+	background-image: url(artwork/web_ready/headerlogo.gif);
 }
 #sidebar {
 	height: 887px;
 	width: 250px;
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	position: absolute;
 	left: 11px;
 	top: 152px;
@@ -34,7 +35,7 @@
 	width: 509px;
 	height: 274px;
 	left: 521px;
-	top: 175;
+	top: 175px;
 }
 #interests {
 	background-color: #FFFFFF;
