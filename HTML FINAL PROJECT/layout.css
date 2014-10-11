@@ -7,34 +7,34 @@
 	top: 0px;
 	position: absolute;
 	width: 1280px;
-	height: 200px;
-	background-color: #600050;
+	height: 150px;
+	background-color: #FFFFFF;
 }
 #sidebar {
-	height: 838px;
-	width: 250px;
-	background-color: #FFFFFF;
+	height: 839px;
+	width: 248px;
+	background-color: #F1B4B5;
 	position: absolute;
 	left: 11px;
-	top: 200px;
+	top: 199px;
 	float: none;
 }
 #selfportait {
 	position: absolute;
-	top: 212px;
+	top: 209px;
 	float: none;
-	background-color: #FFFFFF;
-	left: 318px;
+	background-color: #F88486;
+	left: 311px;
 	width: 185px;
 	height: 226px;
 }
 #aboutme {
-	background-color: #FFFFFF;
+	background-color: #E49495;
 	position: absolute;
 	width: 509px;
 	height: 256px;
-	left: 529px;
-	top: 212px;
+	left: 521px;
+	top: 208px;
 }
 #interests {
 	background-color: #FFFFFF;
