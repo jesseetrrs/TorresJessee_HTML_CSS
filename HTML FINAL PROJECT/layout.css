@@ -8,33 +8,33 @@
 	position: absolute;
 	width: 1280px;
 	height: 150px;
-	background-color: #FFFFFF;
+	background-color: #640153;
 }
 #sidebar {
-	height: 839px;
-	width: 248px;
-	background-color: #F1B4B5;
+	height: 887px;
+	width: 250px;
+	background-color: #FFFFFF;
 	position: absolute;
 	left: 11px;
-	top: 199px;
+	top: 152px;
 	float: none;
 }
 #selfportait {
 	position: absolute;
-	top: 209px;
+	top: 175px;
 	float: none;
-	background-color: #F88486;
+	background-color: #FFFFFF;
 	left: 311px;
 	width: 185px;
 	height: 226px;
 }
 #aboutme {
-	background-color: #E49495;
+	background-color: #FFFFFF;
 	position: absolute;
 	width: 509px;
-	height: 256px;
+	height: 274px;
 	left: 521px;
-	top: 208px;
+	top: 175;
 }
 #interests {
 	background-color: #FFFFFF;
