@@ -2,7 +2,6 @@
 	width: 1280px;
 	height: 01024px;
 	background-color: #e1dfd9;
-	background-image: url(artwork/web_ready/background.gif);
 }
 #header {
 	top: 0px;
@@ -52,17 +51,27 @@
 	background-color: #FFFFFF;
 	position: absolute;
 	width: 331px;
-	height: 224px;
-	top: 527px;
+	height: 150px;
+	top: 532px;
 	left: 392px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 11pt;
+	text-align: left;
+	color: #262626;
+	padding-top: 10px;
 }
 #trivia {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 321px;
-	height: 225px;
+	width: 333px;
+	height: 150px;
 	top: 528px;
 	left: 775px;
+	color: #262626;
+	font-size: 11pt;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: left;
+	padding-top: 10px;
 }
 #aboutmelogo {
 	background-color: #FCB040;
@@ -71,12 +80,14 @@
 	height: 38px;
 	top: 492px;
 	left: 392px;
+	background-image: url(artwork/web_ready/interestslogo.gif);
 }
 #interestslogo {
 	background-color: #FCB040;
 	position: absolute;
-	width: 322px;
+	width: 333px;
 	height: 38px;
 	left: 775px;
 	top: 489px;
+	background-image: url(artwork/web_ready/funfactslogo.gif);
 }
