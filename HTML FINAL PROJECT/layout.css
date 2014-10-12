@@ -2,6 +2,7 @@
 	width: 1280px;
 	height: 01024px;
 	background-color: #e1dfd9;
+	background-image: url(artwork/web_ready/background.gif);
 }
 #header {
 	top: 0px;
@@ -12,44 +13,70 @@
 	background-image: url(artwork/web_ready/headerlogo.gif);
 }
 #sidebar {
-	height: 887px;
-	width: 250px;
+	height: 891px;
+	width: 257px;
 	background-color: #ffffff;
 	position: absolute;
-	left: 11px;
-	top: 152px;
+	left: 2px;
+	top: 150px;
 	float: none;
+	padding-top: 50px;
+	padding-left: 25px;
 }
 #selfportait {
 	position: absolute;
 	top: 175px;
 	float: none;
 	background-color: #FFFFFF;
-	left: 311px;
+	left: 348px;
 	width: 185px;
 	height: 226px;
 }
 #aboutme {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 509px;
+	width: 605px;
 	height: 274px;
-	left: 521px;
+	left: 574px;
 	top: 175px;
+	color: #262626;
+	font-size: 11pt;
+	text-align: justify;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-indent: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
 }
 #interests {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 250px;
-	height: 300px;
-	top: 490px;
-	left: 340px;
+	width: 331px;
+	height: 224px;
+	top: 527px;
+	left: 392px;
 }
 #trivia {
 	background-color: #FFFFFF;
 	position: absolute;
-	width: 250px;
-	height: 300px;
-	top: 490px;
-	left: 680px;
+	width: 321px;
+	height: 225px;
+	top: 528px;
+	left: 775px;
+}
+#aboutmelogo {
+	background-color: #FCB040;
+	position: absolute;
+	width: 333px;
+	height: 38px;
+	top: 492px;
+	left: 392px;
+}
+#interestslogo {
+	background-color: #FCB040;
+	position: absolute;
+	width: 322px;
+	height: 38px;
+	left: 775px;
+	top: 489px;
 }
