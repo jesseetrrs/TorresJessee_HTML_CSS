@@ -10,6 +10,7 @@
 	height: 150px;
 	background-color: #7BCEF2;
 	background-image: url(artwork/web_ready/headerlogo.gif);
+	left: -1px;
 }
 #sidebar {
 	height: 891px;
@@ -24,20 +25,20 @@
 }
 #selfportait {
 	position: absolute;
-	top: 175px;
+	top: 159px;
 	float: none;
-	background-color: #FFFFFF;
-	left: 348px;
-	width: 185px;
-	height: 226px;
+	left: 307px;
+	width: 215px;
+	height: 290px;
+	background-image: url(artwork/web_ready/selfportait.jpg);
 }
 #aboutme {
 	background-color: #FFFFFF;
 	position: absolute;
 	width: 605px;
-	height: 274px;
-	left: 574px;
-	top: 175px;
+	height: 295px;
+	left: 573px;
+	top: 159px;
 	color: #262626;
 	font-size: 11pt;
 	text-align: justify;
@@ -87,7 +88,7 @@
 	position: absolute;
 	width: 333px;
 	height: 38px;
-	left: 775px;
-	top: 489px;
+	left: 774px;
+	top: 490px;
 	background-image: url(artwork/web_ready/funfactslogo.gif);
 }
