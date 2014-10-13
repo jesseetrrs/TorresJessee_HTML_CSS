@@ -32,6 +32,7 @@
 	width: 215px;
 	height: 290px;
 	background-image: url(artwork/web_ready/selfportait.jpg);
+	border: 5pt solid #AAC1A2;
 }
 #aboutme {
 	background-color: #FFFFFF;
@@ -101,23 +102,26 @@
 	top: 229px;
 	height: 775px;
 	width: 230px;
-	background-color: #D4C7C7;
+	background-color: #f2cec7;
 	padding-right: 10px;
 	padding-left: 20px;
 	padding-top: 10px;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-size: 13ptpt;
+	color: #262626;
 }
 #resume_content {
 	top: 229px;
 	left: 544px;
 	position: absolute;
-	background-color: #A88182;
+	background-color: #ffffff;
 	width: 554px;
 	height: 784px;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-size: 9pt;
 	padding-left: 20px;
+	padding-top: 5px;
+	color: #262626;
 }
 #resume_aboutme {
 	top: 154px;
@@ -125,8 +129,51 @@
 	position: absolute;
 	width: 790px;
 	height: 74px;
-	background-color: #fbb040;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-size: 10pt;
 	padding-left: 20px;
+	background-image: url(artwork/web_ready/resumelogo.gif);
+}
+#myfamilylogo {
+	position: absolute;
+	left: 307px;
+	top: 154px;
+	padding-left: 10px;
+	width: 790px;
+	height: 74px;
+	background-image: url(artwork/web_ready/myfamilylogo.gif);
+}
+#john {
+	padding-left: 10px;
+	top: 238px;
+	position: absolute;
+	width: 395px;
+	left: 307px;
+	height: 300px;
+	background-image: url(artwork/web_ready/familyboxes_john.gif);
+}
+#savannah {
+	position: absolute;
+	top: 238px;
+	position: absolute;
+	width: 395px;
+	left: 702px;
+	height: 300px;
+}
+
+#beethoven {
+	width: 395px;
+	padding-left: 10px;
+	position: absolute;
+	top: 540px;
+	left: 307px;
+	height: 300px;
+}
+#lulasnoopy {
+	width: 395px;
+	padding-left: 10px;
+	position: absolute;
+	top: 540px;
+	left: 702px;
+	height: 300px;
 }
